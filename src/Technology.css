@@ -1,0 +1,253 @@
+.technology {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 35px;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  width: 750px;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.technology-header {
+  border-bottom: 2px solid #f08080;
+  font-size: 40px;
+  border-bottom-width: 6px;
+  margin-left: -510px;
+}
+
+.tech2 {
+  height: 200px;
+}
+
+.tech3,
+.tech4,
+.tech5,
+.tech6,
+.tech7,
+.tech8 {
+  border-top: 2px solid #f0f0f0;
+  height: 200px;
+}
+
+.tech2 > img {
+  width: 300px;
+  height: 150px;
+  margin-left: -400px;
+  margin-top: 25px;
+}
+
+.tech2 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -260px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech3 > img {
+  width: 300px;
+  height: 150px;
+  margin-left: -400px;
+  margin-top: 20px;
+}
+
+.tech3 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -250px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech4 > img {
+  width: 300px;
+  height: 150px;
+  margin-left: -400px;
+  margin-top: 25px;
+}
+
+.tech4 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -260px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech5 > img {
+  width: 300px;
+  height: 150px;
+  margin-left: -400px;
+  margin-top: 25px;
+}
+
+.tech5 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -260px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech6 > img {
+  width: 300px;
+  height: 150px;
+  margin-left: -400px;
+  margin-top: 25px;
+}
+
+.tech6 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -260px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech7 > img {
+  width: 300px;
+  height: 150px;
+  margin-left: -400px;
+  margin-top: 25px;
+}
+
+.tech7 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -260px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech8 > img {
+  width: 300px;
+  height: 150px;
+  margin-left: -400px;
+  margin-top: 25px;
+}
+
+.tech8 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -260px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech11 {
+  height: 421px;
+  width: 540px;
+}
+
+.tech11 > img {
+  width: 400px;
+  height: 250px;
+  margin-left: -140px;
+  margin-top: 25px;
+}
+
+.tech11 > .card-body {
+  color: black;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  margin-top: -215px;
+  margin-left: -270px;
+  text-align: left;
+}
+
+.tech12 {
+  border-top: 2px solid #f0f0f0;
+  height: 118px;
+}
+
+.tech12 > img {
+  width: 200px;
+  height: 100px;
+  margin-left: -340px;
+  margin-top: 9px;
+}
+
+.tech12 > .card-body {
+  color: black;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  margin-top: -165px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech13 {
+  border-top: 2px solid #f0f0f0;
+  height: 118px;
+}
+
+.tech13 > img {
+  width: 200px;
+  height: 100px;
+  margin-left: -340px;
+  margin-top: 9px;
+}
+
+.tech13 > .card-body {
+  color: black;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  margin-top: -160px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech14 {
+  border-top: 2px solid #f0f0f0;
+  height: 118px;
+}
+
+.tech14 > img {
+  width: 200px;
+  height: 100px;
+  margin-left: -340px;
+  margin-top: 9px;
+}
+
+.tech14 > .card-body {
+  color: black;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  margin-top: -160px;
+  margin-left: -30px;
+  text-align: left;
+}
+
+.tech15 {
+  border: 1px solid #707070;
+  width: 400px;
+  height: 600px;
+  margin: 40px 0px 0px 0px;
+}
